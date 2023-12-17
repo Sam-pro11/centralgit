@@ -1,1 +1,2 @@
-this is line file on Main
+this is line file creatd on branch MAIN 
+integarting the merge conflict concept
